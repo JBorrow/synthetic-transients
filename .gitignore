@@ -1,0 +1,9 @@
+*.csv
+*.db
+*.db-journal
+*.h5
+
+.venv/*
+.ruff_cache/*
+*__pycache__/*
+*.pyc
